@@ -68,7 +68,7 @@
 ## 📌 Контакты
 <p align="center">
   <a href="https://t.me/nloverx">
-    <img src="https://img.shields.io/badge/Telegram-%40nloverx.t.mf-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
+    <img src="https://img.shields.io/badge/Telegram-%40https://t.me/nloverx-333?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00000000" />
   </a>
   <a href="mailto:nloveuser@gmail.com">
     <img src="https://img.shields.io/badge/Email-nloveuser%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000000" />
