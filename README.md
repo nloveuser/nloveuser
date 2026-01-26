@@ -5,6 +5,13 @@
 <h2 align="center">👋 Привет, я nloveuser</h2>
 <p align="center">💻 Fullstack-разработчик из мира Linux</p>
 
+
+## Music
+
+<p align="center">
+  <img src="https://banner.nloveuser.ru/api/banner/horizontal?username=nloveuser&banner_type=ultra" />
+</p>
+
 ---
 
 ## 🧠 Обо мне
