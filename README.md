@@ -9,7 +9,7 @@
 ## Music
 
 <p align="center">
-  <img src="https://banner.nloveuser.ru/api/banner/horizontal?username=nloveuser&banner_type=ultra" />
+  <img src="https://banner.nloveuser.ru/api/banner?username=nloveuser" />
 </p>
 
 ---
