@@ -127,18 +127,6 @@ languages:
 
 ---
 
-📊 Сравнение коммитов
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Plovchikdeval&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nloveuser&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=ffffff" />
-</p>
-
----
-
 📌 Контакты
 
 <p align="center">
