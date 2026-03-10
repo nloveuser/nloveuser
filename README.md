@@ -55,7 +55,7 @@ languages:
 📊 Статистика коммитов Plovchikdeval
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plovchikdeval&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true" />
+  <img src="https://stats-repoo.vercel.app/api?username=Plovchikdeval&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ languages:
 📊 Статистика коммитов nloveuser
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nloveuser&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true" />
+  <img src="https://stats-repoo.vercel.app/api?username=nloveuser&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
