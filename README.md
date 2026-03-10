@@ -12,7 +12,7 @@
 ## 🎵 Music
 
 <p align="center">
-  <img src="https://banner.nloveuser.ru/api/banner?username=nloveuser" />
+  <img src="https://banner.nloveuser.ru/lastfm/banner?username=nloveuser" />
 </p>
 
 ---
